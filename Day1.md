@@ -5,8 +5,6 @@
 **Status:** 10/10 questions completed
 
 > **How to revise:** Hide the **Corrected answer** under each question, answer aloud in 60–90 seconds, then compare. On a second pass, reproduce the key equations and identify what evidence an ML researcher would require.
->
-> **Note:** The numerical examples below are educational/hypothetical. The interview-ready answers are guidance, not official ETH interview questions or ETH grading.
 
 ## Contents
 
