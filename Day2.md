@@ -2,10 +2,7 @@
 
 **GitHub-ready annotated study report**  
 **Subject:** Patient-centered machine learning, clinical evaluation, uncertainty, generalization, and multimodal study design  
-**Coverage:** All 10 questions · my submitted answers · corrected answers · detailed feedback · concepts and equations · personal weaknesses · revision plan · runnable Python practice
 
-> **Purpose:** This document records what I initially answered, what the correct reasoning is, why my mistakes matter, and what to revise next. It is intended to be an honest learning log, not a polished claim that everything is already mastered.
->
 > **Scope:** Longitudinal EHR and wearable data with repeated observations per patient, rare outcomes, multimodal models, and external validation.
 
 ## Navigation
