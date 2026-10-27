@@ -76,9 +76,9 @@ You have 200 patients and 100 physiological features. Compare (A) a simple linea
 
 ### My original answer
 
-> 1.  higher bias: model b, because the layers are too much.
+> 1.  higher bias: model a, linear models may underfit the data.
 >
-> 2. higher variance: model a, because simple linear models hardly catch consist patterns and will give different predictions when using different training data.
+> 2. higher variance: model b, deep neural network may learn too much about the errors.
 >
 > 3. model b, because the neural network can learn more information and not be overfitting.
 
