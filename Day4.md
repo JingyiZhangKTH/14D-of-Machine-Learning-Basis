@@ -1,11 +1,5 @@
 # Day 4 --- Representation Learning and Rigorous Biomedical ML
 
-**Purpose:** Revision report with the ten questions, my answers,
-corrected answers, weaknesses, and recommended resources.
-
-**Overall estimated score: 6.2/10.** This is a teaching estimate, not a
-standardized assessment.
-
 ## Executive summary
 
 Day 4 covered representation learning, self-supervised learning,
