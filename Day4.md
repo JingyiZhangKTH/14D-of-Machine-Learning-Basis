@@ -726,22 +726,4 @@ Estimated time: four focused hours.
 5.  Read the multimodal survey and dataset-shift paper.
 6.  Write a one-page protocol for the wearable/EHR/notes study.
 
-------------------------------------------------------------------------
-
-# Final assessment
-
-**Overall estimated Day 4 score: 6.2/10.**
-
-Your strongest skill is research-minded skepticism: you ask whether
-results generalize, whether an ablation is fair, and whether a model is
-using the right information.
-
-Your biggest opportunity is methodological precision. For every
-technique, be ready to explain: 1. What problem it addresses. 2. What
-assumptions it makes. 3. How it is implemented without leakage. 4. What
-experiment tests whether it helped. 5. What conclusion the evidence
-actually supports.
-
-You can proceed to Day 5 while revisiting this checklist. The goal is
-not to memorize many methods; it is to design and defend a rigorous
-experiment from start to finish.
+】】
