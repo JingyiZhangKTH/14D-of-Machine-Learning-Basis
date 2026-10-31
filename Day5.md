@@ -1,41 +1,9 @@
 # Day 5 --- Temporal Machine Learning for Wearable and Clinical Data
-
-> **Purpose:** A complete revision guide covering the ten Day 5
-> questions, your answers, corrected answers, mathematical intuition,
-> revision priorities, and recommended resources.
 >
 > **Research context:** Predicting cardiovascular complications from
 > longitudinal wearable data such as heart rate, physical activity, and
 > sleep.
 
-## Day 5 overview
-
-  Q    Topic                                                  Approx. score
-  ---- ---------------------------------------------------- ---------------
-  1    Temporal dependency, windowing, prediction horizon          6.5/10\*
-  2    RNN, vanishing gradients, LSTM and GRU                      6.5/10\*
-  3    Temporal CNN and receptive field                            6.5/10\*
-  4    Self-attention and Q/K/V                                    6.5/10\*
-  5    Positional encoding and irregular sampling                    7.5/10
-  6    Missing-data mechanisms and imputation                        6.6/10
-  7    Temporal leakage and evaluation design                        8.1/10
-  8    Survival analysis and censoring                               6.6/10
-  9    Sequence prediction, pooling, attention masks                 7.9/10
-  10   Complete temporal-ML research design                          7.1/10
-
-\*The first four scores are retrospective estimates because their
-earlier detailed grading is not fully available in the current
-conversation. The approximate overall assessment was **6.9/10**.
-
-**Main progress:** You became much stronger at patient-level evaluation,
-temporal leakage prevention, and designing a complete medical ML
-pipeline.
-
-**Main weaknesses:** Mathematical details of temporal architectures,
-survival analysis, and distinguishing calibration from threshold
-adjustment.
-
-------------------------------------------------------------------------
 
 # Question 1 --- Temporal dependency, windowing, splitting, and prediction horizon
 
@@ -1053,20 +1021,3 @@ Try to answer these without looking at your notes:
     window?
 10. Why is recalibration different from changing a classification
     threshold?
-
-## Final takeaway
-
-Your most important progress during Day 5 was learning to think about
-temporal ML as a complete prediction problem rather than simply choosing
-an architecture.
-
-Your next step is to strengthen the mathematics behind methods you can
-already describe.
-
-**Prioritize these three concepts:** 1. Recurrent and attention
-mechanisms mathematically. 2. Survival analysis and incomplete
-follow-up. 3. Leakage-free temporal evaluation.
-
-If you can explain these clearly, derive their basic equations, and
-defend your experimental choices, you will have a much stronger
-foundation for designing longitudinal medical ML studies.
