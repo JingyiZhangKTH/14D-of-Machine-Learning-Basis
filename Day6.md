@@ -1,14 +1,8 @@
 # Day 6 --- Transformer Mathematics, Positional Encoding, and Optimization
 
-> **Programme:** 14-day preparation for medical machine learning
-> research\
 > **Day 6 focus:** Attention mathematics, Transformer architecture,
 > positional information, optimization, and practical training\
 > **Status:** Completed
->
-> This document records the concepts studied, the questions asked, my
-> answers, corrections, and topics to revisit. It intentionally excludes
-> exercise grades.
 
 ------------------------------------------------------------------------
 
@@ -965,40 +959,3 @@ appropriate, its training is stable, its comparisons are fair, and its
 performance generalizes to new patients and hospitals.
 
 ------------------------------------------------------------------------
-
-# 10. Preparation for Day 7
-
-**Next topic: Natural Language Processing (NLP).**
-
-I will carry forward the Transformer foundations from Day 6 and apply
-them to language.
-
-Suggested Day 7 topics:
-
-1.  Text preprocessing and tokenization.
-2.  Subword tokenization, BPE, and WordPiece.
-3.  Word and contextual embeddings.
-4.  Language modelling and next-token prediction.
-5.  NLP evaluation, perplexity, and medical-domain language models.
-
-The aim is to connect Transformer mathematics to the way modern language
-models represent and process clinical text.
-
-------------------------------------------------------------------------
-
-## Personal learning reflection
-
-My conceptual understanding of Transformer architecture and optimization
-is developing. I can now work through many tensor-shape and
-parameter-count calculations, explain the purpose of multi-head
-attention, and reason about positional encoding for irregular medical
-time series.
-
-My main area for improvement remains mathematical precision. I should
-practise the chain rule, variance derivations, gradient clipping, and
-optimizer update equations until I can derive them without relying on
-memorized answers.
-
-**Study principle for the next days:** learn the concept, derive the
-equation, implement a small example, and then explain why it matters for
-medical ML research.
