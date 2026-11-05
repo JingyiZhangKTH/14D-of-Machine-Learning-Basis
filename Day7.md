@@ -1,7 +1,5 @@
 # Day7 --- NLP and LLM Foundations
 
-**Programme:** 14-day medical machine learning learning programme\
-**Day:** 7 of 14\
 **Theme:** Natural Language Processing, language modelling, and medical
 LLM evaluation
 
@@ -888,5 +886,3 @@ Understanding how an LLM processes language is only the beginning.
 Medical ML research must also establish whether its representations and
 outputs preserve clinically important information, generalize to new
 populations and hospitals, and remain reliable in real-world settings.
-
-**Next: Day 8 --- Computer Vision and Medical Imaging.**
